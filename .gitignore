@@ -1,6 +1,7 @@
 !.css/index.js
 .css/index.css
-helpers/*
-!helpers/employee.css
+/[Hh]elpers/*
+!/[Hh]elpers/employee.css
+!/[Hh]elpers/customer.css
 gitignore
 log.txt
