@@ -3,6 +3,6 @@
 /[Hh]elpers/*
 !/[Hh]elpers/employee.css
 !/[Hh]elpers/customer.css
-gitignore
+.gitignore
 log.txt
 **/.json
