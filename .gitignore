@@ -1,8 +1,8 @@
 !.css/index.js
 .css/index.css
 
-helper/employee.css
-!helper/user.css
+# helper/employee.css
+# !helper/user.css
 
 gitignore
 log.txt
