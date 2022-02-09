@@ -5,3 +5,4 @@
 !/[Hh]elpers/customer.css
 gitignore
 log.txt
+**/.json
